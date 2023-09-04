@@ -1,0 +1,2 @@
+# platinum
+my first repository.
